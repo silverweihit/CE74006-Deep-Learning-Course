@@ -1,7 +1,7 @@
 # CE74006-Deep-Learning-Course
 This is the home page for the DL course (CE74006)organized by Dr. Shiyin Wei, School of Civil Engineering, Harbin Institute of Technology.  
 This is an ongoing project focusing on basic theories, tutorials, projects, resources, and access to other great repositories. 
-![Uploading 1698564004654.png…]()
+![DL cource](https://github.com/silverweihit/CE74006-Deep-Learning-Course/blob/main/Attaches/DL%20course.png)
 
 # Contents
 * Introduction

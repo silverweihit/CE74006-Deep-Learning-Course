@@ -8,8 +8,8 @@ This is an ongoing project focusing on basic theories, tutorials, projects, reso
     * Recommended Courses
         * Stanford [CS231](http://cs231n.stanford.edu/)
         * Stanford [CS224](https://cs224d.stanford.edu/)
-        * UoToronto [CSC413] (https://csc413-2020.github.io/)
-        * NTU [Machine Learning] (https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
+        * UoToronto [CSC413](https://csc413-2020.github.io/)
+        * NTU [Machine Learning](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
         * 
 * Essential Math
 * Basics of Machine Learning
@@ -26,12 +26,12 @@ This is an ongoing project focusing on basic theories, tutorials, projects, reso
 * Applications
     * Dataset
     * Implementations
-        * Python (AwesomePython https://github.com/vinta/awesome-python)
+        * Python ([AwesomePython](https://github.com/vinta/awesome-python))
         * Pytorch (Tutorial: [Official Tutorial](https://github.com/pytorch/tutorials),
             [Morvan Zhou's Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial))
-        * Tensorflow (Tutorial: https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
-        * PaddlePaddle (https://www.paddlepaddle.org.cn/documentation/docs/zh/guides/index_cn.html)
-        * Mindspore (https://www.mindspore.cn/docs)
+        * [Tensorflow](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
+        * [PaddlePaddle](https://www.paddlepaddle.org.cn/documentation/docs/zh/guides/index_cn.html)
+        * [Mindspore](https://www.mindspore.cn/docs)
     *  Recommended Projects
 
   

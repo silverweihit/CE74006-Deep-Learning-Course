@@ -6,6 +6,11 @@ This is an ongoing project focusing on basic theories, tutorials, projects, reso
 # Contents
 * Introduction
     * Recommended Courses
+        * Stanford [CS231](http://cs231n.stanford.edu/)
+        * Stanford [CS224](https://cs224d.stanford.edu/)
+        * UoToronto [CSC413] (https://csc413-2020.github.io/)
+        * NTU [Machine Learning] (https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
+        * 
 * Essential Math
 * Basics of Machine Learning
 * From Shallow to Deep Learning

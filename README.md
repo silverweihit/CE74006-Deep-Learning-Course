@@ -33,5 +33,6 @@ This is an ongoing project focusing on basic theories, tutorials, projects, reso
         * [PaddlePaddle](https://www.paddlepaddle.org.cn/documentation/docs/zh/guides/index_cn.html)
         * [Mindspore](https://www.mindspore.cn/docs)
     *  Recommended Projects
-
+* Other resources
+* [PaddleEducation](https://paddlepedia.readthedocs.io/en/latest/tutorials/deep_learning/index.html)
   
